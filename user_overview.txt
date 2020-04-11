@@ -1,0 +1,26 @@
+Total number of users registered with Task Manager: 4
+Total number of tasks generated using Task Manager: 2
+
+Total tasks assigned to user "admin": 2
+Percentage of total number of tasks assigned to user "admin": 100.00%
+Percentage of tasks assigned to user "admin" completed: 0.00%
+Percentage of tasks assigned to user "admin" not completed: 100.00%
+Percentage of tasks assigned to user "admin" not completed and are overdue: 100.00%
+
+Total tasks assigned to user "sizeka": 0
+Percentage of total number of tasks assigned to user "sizeka": 0.00%
+Percentage of tasks assigned to user "sizeka" completed: 0.00%
+Percentage of tasks assigned to user "sizeka" not completed: 0.00%
+Percentage of tasks assigned to user "sizeka" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "mpho": 0
+Percentage of total number of tasks assigned to user "mpho": 0.00%
+Percentage of tasks assigned to user "mpho" completed: 0.00%
+Percentage of tasks assigned to user "mpho" not completed: 0.00%
+Percentage of tasks assigned to user "mpho" not completed and are overdue: 0.00%
+
+Total tasks assigned to user "dimpho": 0
+Percentage of total number of tasks assigned to user "dimpho": 0.00%
+Percentage of tasks assigned to user "dimpho" completed: 0.00%
+Percentage of tasks assigned to user "dimpho" not completed: 0.00%
+Percentage of tasks assigned to user "dimpho" not completed and are overdue: 0.00%
